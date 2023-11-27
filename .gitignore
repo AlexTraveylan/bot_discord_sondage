@@ -9,8 +9,8 @@ __pycache__/
 
 
 # Environnement virtuel
-env/
-.env
+env*/
+.env*
 
 # Fichiers de build
 
